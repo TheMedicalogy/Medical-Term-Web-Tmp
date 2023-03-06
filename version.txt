@@ -1,5 +1,0 @@
-android-version=1.2.1
-android-force=1
-
-ios-version=1.2.1
-ios-force=1
